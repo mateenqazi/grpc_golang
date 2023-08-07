@@ -4,7 +4,7 @@ package pcbook;
 
 option go_package = "pcbook/pb"; 
 
-message Keyword {
+message Keyboard {
     enum Layout {
         UNKNOWN = 0;
         QWERTY = 1;
